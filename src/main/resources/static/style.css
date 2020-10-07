@@ -1,0 +1,21 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: blue;
+}
+h2{
+    color:#FF0000;
+}
+p {
+    color: orange;
+}
+
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
